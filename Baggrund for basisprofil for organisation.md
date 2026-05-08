@@ -75,7 +75,7 @@ anvendelsesmæssige behov på tværs af stat, kommuner, regioner.
 
 Behovsafdækningen resulterede i dokumentet *Brugerbehov til
 Fællesoffentlig standard for Organisation*
-[^[1]{.underline}^](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fn-1-3db06bca7ff73be10a1f53a4c49459ab).
+[2) Profilens udgangspunkt og tilblivelse](https://github.com/digst/Basisanvendelsesprofil-for-organisation/tree/main/Basisanvendelsesprofil).
 
 Ud fra brugerbehovene blev der udformet en begrebsmodel som en
 informationsmodel for organisation. Informationsmodellen startede med at
